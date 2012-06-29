@@ -1,0 +1,2 @@
+
+(setq buffer-undo-list (quote (nil (108 . 109) nil (#("@" 0 1 (fontified t face font-lock-comment-face)) . -108) (t 20461 . 664) nil (#("/" 0 1 (fontified t)) . -3451) nil (#("/" 0 1 (fontified t)) . -3452) nil (3451 . 3453) (t 20461 . 600))))
